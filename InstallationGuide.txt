@@ -1,0 +1,2 @@
+Installation Guide for Document Management System 
+Java Installation Is Required Version JDK 1.7 or JDK 1.8
